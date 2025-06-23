@@ -1,1 +1,3 @@
 #Introduction to Git
+Git is a Version Control System Created by Linus Torvalds
+Procelian commands and Plumbing commands are the type of commands in git.
